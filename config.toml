@@ -1,4 +1,4 @@
-baseURL = "https://cutlerjd.github.io/hugo_portfolio/"
+baseURL = "http://jasecutler.com"
 languageCode = "en-us"
 title = "Jase Cutler"
 theme = "hugo-agency-theme"
