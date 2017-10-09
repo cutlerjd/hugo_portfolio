@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https//jasecutler.com/categories/</loc>
+    <loc>http://jasecutler.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https//jasecutler.com/</loc>
+    <loc>http://jasecutler.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https//jasecutler.com/tags/</loc>
+    <loc>http://jasecutler.com/tags/</loc>
     <priority>0</priority>
   </url>
   
