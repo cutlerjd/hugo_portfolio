@@ -1,0 +1,8 @@
+modalID: 1
+title: Text to Action
+subtitle: Get a letter to your representatives with just a text.
+date: 2016
+img: texttoactionLg.png
+preview: texttoactionLg.png
+category: Letters to Senators via SMS
+description: <h2><a href="https://github.com/cutlerjd/tiy_call_to_action">GitHub</a></h2><br/>Have an issue you care about and need your elected reprentatives to hear about it? This app lets you create a campaign, and someone can send a text in and get their elected representatives a letter sent to them! From an SMS! <br/>This project involved developing a full stack application. Express backend powered by Node.js and MySQL hosted on Heroku and Google Cloud SQL. Frontend used React, HTML and CSS.<br/> This was my final project at The Iron Yard - Las Vegas.
