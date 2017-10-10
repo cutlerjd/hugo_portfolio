@@ -1,0 +1,8 @@
+modalID: 1
+title: Contact App
+subtitle: Using Redux, React, and Material UI
+date: 2016
+img: contactLg.png
+preview: contactLg.png
+category: React, Redux and Material UI
+description: <h2><a href="https://github.com/cutlerjd/tiy_contact_list_redux">GitHub</a></h2><br/>This app demonstrates using Redux for application state in a simple contact app. Layout and presentation utilizes Material UI, and users are pulled from randomuser.me's API.
