@@ -39,7 +39,7 @@ title = "Skills"
 [[params.services.row.list]]
       icon = "fa-file-code-o"
       title = "Full Stack Development"
-      description = "Experience building web sites and web applications. Foundational skills with HTML, CSS, and Javascript. Front-End experience building web apps using React and Redux, as well as building Back-Ends with Express, Node.js and MySQL."
+      description = "Experience building web sites and web applications. Foundational skills with HTML, CSS, Java, and Javascript. Front-End experience building web apps using React and Redux, as well as building Back-Ends with Express, Apache Struts, Node.js and MySQL."
 
 [[params.services.row.list]]
       icon = "fa-server"
@@ -109,6 +109,12 @@ title = "Skills"
       title = "Web Development"
       description = "With the itch to continue my learning, and gain skills beyond IT operations, I enrolled in The Iron Yard - Las Vegas in their full stack program. 16 grueling weeks of coding web apps and working on teams."
 
+      [[params.about.events]]
+      img = "UBC_union_logo.png"
+      date = "2017 - 2018"
+      title = "Software Developer"
+      description = "Currently working with The United Brotherhood of Carpenters and Joiners Union as a software developer. I help maintain and build new features for internal scheduling and class management. Utilize Java, Javascript, PostgreSQL, Apache Struts, Jasper Reports, and other technologies to make this happen."
+
 # Team section
   [params.team]
     enable = true
@@ -133,7 +139,7 @@ title = "Skills"
         "See my code at [GitHub.com](https://github.com/cutlerjd)"
       ]
       # For bio markdown and even multiline strings are available.
-      #bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.She worked at Pied Piper for years until they went belly up."""
+      #bio = """K."""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/jasecutler/"],
         ["fa-github", "https://github.com/cutlerjd"],
